@@ -40,9 +40,10 @@ li {
     background-color: gold;
     color: darkblue;
     border: 1px solid black;
-    width: 50%;
-    height: auto;
+    width: 20%;
+    height: 20%;
     padding: 5%;
+    margin: 0 auto;
 }
 h3 {
     text-align: center;
@@ -54,6 +55,7 @@ p {
 }
 h5 {
     text-decoration: black underline;
+    text-align: center;
 }
 body {
     background-color: gainsboro;
